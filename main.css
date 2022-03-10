@@ -1,0 +1,17 @@
+
+
+
+.count_time{
+  display: inline-block;
+  width: 100%;
+  padding:30px 0 50px 10px;
+}
+
+.number{
+  
+  font-weight: 900;
+}
+
+button{
+  padding:5px 5px;
+}
